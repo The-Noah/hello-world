@@ -7,6 +7,6 @@ I go by many names, but on GitHub and BZFlag, I'm The Noah.
 
 Feel free to commit, fork, and just steal my code!
 
-IRC Channel: ##thenoahbz
-https://webchat.freenode.net
+IRC Channel: ##thenoahbz | https://webchat.freenode.net
+
 The Noah
