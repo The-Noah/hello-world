@@ -1,9 +1,9 @@
 # hello-world
 Hello, World!
 
-This is where i keep new projects, small ones, and a place where i can just share code.
+This is where I keep new projects, small ones, and a place where I can just share code.
 
-I go by many names, but on GitHub and BZFlag, I'm The Noah.
+I'm known as The Noah or The Noah BZ.
 
 Feel free to commit, fork, and just steal my code!
 
